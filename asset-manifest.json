@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ColorState/static/css/main.3a813aa4.css",
+    "main.js": "/ColorState/static/js/main.74b29229.js",
+    "index.html": "/ColorState/index.html",
+    "main.3a813aa4.css.map": "/ColorState/static/css/main.3a813aa4.css.map",
+    "main.74b29229.js.map": "/ColorState/static/js/main.74b29229.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a813aa4.css",
+    "static/js/main.74b29229.js"
+  ]
+}
